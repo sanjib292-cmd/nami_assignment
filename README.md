@@ -11,6 +11,7 @@ To get started with this project, follow these steps:
 3. Run `flutter pub get` to install dependencies.
 4. Connect a device or start an emulator.
 5. Run `flutter run` to start the application.
+6. while running the project it might ask you for camera permission to allow
 
 ## Features
 
